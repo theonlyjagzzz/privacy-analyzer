@@ -159,9 +159,9 @@ Full request/response shapes are defined in [`docs/api-contract.md`](docs/api-co
 
 | Name | Role |
 |---|---|
-| Aorhi Tyagi | Frontend Developer |
+| Aorhi Tyagi | ML / NLP Engineer |
 | Harmeet Sandhu | Backend Developer |
-| Jagriti Prasad | ML / NLP Engineer |
+| Jagriti Prasad |  Frontend Developer |
 | Janhavi Kadam | Integration & Research Lead |
 
 **Under the guidance of:** Prof. Rubina Shaikh
